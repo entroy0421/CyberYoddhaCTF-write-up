@@ -1,5 +1,9 @@
 # CyberYoddhaCTF write up
 
+## final score
+* 56/681
+
+## write up
 ### Misc
 * Lorem Ipsum
     > 125
